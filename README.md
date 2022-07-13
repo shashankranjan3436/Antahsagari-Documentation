@@ -4,11 +4,17 @@ Mighty Brahmaputra River, is the largest river in North-East India. The average 
 The Remotely operated underwater vehicle Antahsagari project is made under 4i-Labs, IIT Guwahati. The aim of the project is to explore the underwater world. The underwater nature imposes a number of challenges for navigation like depth pressure, water leakage, stability-related issues, poor underwater lighting, etc. Our team is determined to develop cutting-edge technology to overcome these challenges. We aim to make it more versatile and adaptive to make marine research and analysis effortless and prolific in the future.
 - [Click_here](https://drive.google.com/file/d/1pvHRjyKbwa5_8ssrL1nDKeLsp10tVExU/view?usp=sharing) to view the demonstration video
 # AIM
--	To explore and navigate through the bed of mighty Brahmaputra.
--	Collect data regarding water quality and mapping.
+-	The aim of the project is to basically explore underwater world, to explore and navigate through the bed of mighty Brahmaputra.
+-	We are trying to analyse the impact of urbanisation on structure and function of river system using the chemical data extracted from the water using sensors.
+- Collect data regarding water quality and mapping.
 -	Periodic inspection of the river to know about water species, especially during May-June (the time in which the river is mostly flooded)
 -	Inspect dams over the Brahmaputra river like Subansiri lower dam, Ranganadi dam, etc. As the dams require regular inspection to avoid any type of mishappening due to damage in it.
+- We are trying to analyse the impact of urbanisation on structure and function of river system using the chemical data extracted from the water using sensors.
+- It can also be used as a survey platforms to map sea floor or characterise physical, chemical, biological properties of water.
+- It can be used to perform infrastructure inspections of pipeline systems so that divers are not put in harm's way.
 - Surveillance and object recovery in the underwater environment.
+
+
 # PHYSICAL STRUCTURE
 Antahsagri is an underwater remotely operated vehicle (ROV), designed to explore the underwater world and collect data for research and analysis. It is equipped with several sensors:
 - 5 Thrusters T100
