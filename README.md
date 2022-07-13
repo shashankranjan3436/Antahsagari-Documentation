@@ -1,6 +1,6 @@
 # INTRODUCTION 
 Mighty Brahmaputra River, is the largest river in North-East India. The average depth of the river is 30 m (100 ft) and its maximum depth is 135 m (440 ft). Containing a large number of secrets inside, It is still mysterious to people. We all are aware that it contains minerals inside it but any swimmer could rarely dare to dive beneath as the river is also home to diverse variety of aquatic species might including some dangerous species. And it becomes more dangerous during the period of the flood as other species migrate to the river. Due to urbanization and industrialization, the water body is getting more polluted day by day and the quality and quantity of water passing through it are degrading. In that context to discover the problem and survey the water body, many fishermen, divers, and local people face great challenges and also the risk of life. 
-- Mighty Brahmaputra:
+- Mighty Brahmaputra River:
 ![mighty brahmaputra](https://user-images.githubusercontent.com/83603244/178703135-cd8298f9-88ca-4115-9ab3-54d2f51232a6.jpg)
 
 # ABOUT US:
