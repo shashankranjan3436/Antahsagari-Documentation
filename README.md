@@ -1,5 +1,8 @@
 # INTRODUCTION 
 Mighty Brahmaputra River, is the largest river in North-East India. The average depth of the river is 30 m (100 ft) and its maximum depth is 135 m (440 ft). Containing a large number of secrets inside, It is still mysterious to people. We all are aware that it contains minerals inside it but any swimmer could rarely dare to dive beneath as the river is also home to diverse variety of aquatic species might including some dangerous species. And it becomes more dangerous during the period of the flood as other species migrate to the river. Due to urbanization and industrialization, the water body is getting more polluted day by day and the quality and quantity of water passing through it are degrading. In that context to discover the problem and survey the water body, many fishermen, divers, and local people face great challenges and also the risk of life. 
+- Mighty Brahmaputra:
+![mighty brahmaputra](https://user-images.githubusercontent.com/83603244/178703135-cd8298f9-88ca-4115-9ab3-54d2f51232a6.jpg)
+
 # ABOUT US:
 The Remotely operated underwater vehicle Antahsagari project is made under 4i-Labs, IIT Guwahati. The aim of the project is to explore the underwater world. The underwater nature imposes a number of challenges for navigation like depth pressure, water leakage, stability-related issues, poor underwater lighting, etc. Our team is determined to develop cutting-edge technology to overcome these challenges. We aim to make it more versatile and adaptive to make marine research and analysis effortless and prolific in the future.
 - [Click_here](https://drive.google.com/file/d/1pvHRjyKbwa5_8ssrL1nDKeLsp10tVExU/view?usp=sharing) to view the demonstration video
